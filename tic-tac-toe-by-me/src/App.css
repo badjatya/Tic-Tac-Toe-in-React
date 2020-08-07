@@ -1,5 +1,6 @@
-body {
+body{
   background-color: #000000;
+ 
 }
 
 .grid {
@@ -15,7 +16,15 @@ body {
   justify-content: center;
   align-items: center;
 }
-.icon {
+
+.icons{
   font-size: 35px;
   color: #ffffff;
 }
+
+#heading{
+  color: #EAF0F1;
+  font-size: 70px;
+  font-family: poppins;
+}
+
